@@ -1,0 +1,22 @@
+body{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #C4C4C4;
+}
+.contenedor{
+    
+    display: flex;
+    justify-content: space-around;
+}
+.letras{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.boton{
+    background-color: #C4C4C4;
+}
